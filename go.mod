@@ -1,4 +1,4 @@
-module unisat_sdk
+module github.com/ThreeAndTwo/unisat-sdk-go
 
 go 1.20
 

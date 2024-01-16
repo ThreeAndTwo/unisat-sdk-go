@@ -3,10 +3,10 @@ package unisat_sdk_go
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/ThreeAndTwo/unisat-sdk-go/constant"
+	"github.com/ThreeAndTwo/unisat-sdk-go/types"
 	"github.com/imroc/req/v3"
 	"strings"
-	"unisat_sdk/constant"
-	"unisat_sdk/types"
 )
 
 type Client struct {
